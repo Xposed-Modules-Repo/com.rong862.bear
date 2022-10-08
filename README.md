@@ -2,3 +2,4 @@
 
 适配版本：22.6.0
 
+![1665214077516](https://user-images.githubusercontent.com/1235777/194696331-71352820-4ef3-4b44-9305-216e3a861c8e.png)
