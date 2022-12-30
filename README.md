@@ -4,7 +4,7 @@
 
 --隐藏主页标签、去AD
 
-适配版本号：230701
+适配版本号：230701 | 230801
 
 ![1671782860393](https://user-images.githubusercontent.com/1235777/209298125-49eece61-81b1-4ecb-8a19-87023b2d4b2b.png)
 
