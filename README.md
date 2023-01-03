@@ -6,7 +6,8 @@
 
 适配版本号：230701 | 230801
 
-![1671782860393](https://user-images.githubusercontent.com/1235777/209298125-49eece61-81b1-4ecb-8a19-87023b2d4b2b.png)
+![1672737485507](https://user-images.githubusercontent.com/1235777/210329186-46b7b341-1c64-4d75-9c63-a91bb94a8c4d.png)
+
 
 
 
